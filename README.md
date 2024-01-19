@@ -8,7 +8,7 @@ The purpose of this website is to showcase and promote the book "Fassade." Feel 
 
 ## Book
 
-You can buy the book by clicking on the following link: [Fassade Book Promotion]([https://vivi42.github.io/fassade/](https://www.amazon.com.br/Fassade-K-S-Broetto-ebook/dp/B0156U4MMU)).
+You can buy the book by clicking on the following link: [Fassade Book](https://www.amazon.com.br/Fassade-K-S-Broetto-ebook/dp/B0156U4MMU).
 
 ## Contributing
 
