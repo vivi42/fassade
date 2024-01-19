@@ -6,9 +6,9 @@ This site is dedicated to promoting the book "Fassade." You can access the site 
 
 The purpose of this website is to showcase and promote the book "Fassade." Feel free to explore the site to learn more about the book, its author, and related content.
 
-## Access
+## Book
 
-You can access the website by clicking on the following link: [Fassade Book Promotion](https://vivi42.github.io/fassade/).
+You can buy the book by clicking on the following link: [Fassade Book Promotion]([https://vivi42.github.io/fassade/](https://www.amazon.com.br/Fassade-K-S-Broetto-ebook/dp/B0156U4MMU)).
 
 ## Contributing
 
